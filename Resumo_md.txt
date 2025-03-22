@@ -1,0 +1,9 @@
+# Resumo – Uso de VANTs na Agricultura de Precisão
+
+A adoção de Veículos Aéreos Não Tripulados (VANTs), também conhecidos como drones, vem crescendo significativamente na agricultura de precisão, sobretudo devido à sua capacidade de realizar monitoramentos com precisão, segurança e menor custo em relação a aeronaves tripuladas. Esses sistemas, compostos por aeronaves, estações de controle e sensores embarcados, permitem a coleta de imagens georreferenciadas com alta resolução, úteis para o diagnóstico do solo, das culturas e do ambiente.
+
+Diversas iniciativas brasileiras impulsionaram seu desenvolvimento, como o projeto ARARA e a atuação da Embrapa. Os VANTs são classificados conforme a estrutura (asa fixa, rotativa ou multirotores) e sua aplicação, podendo ser utilizados em voos de curta ou longa distância, conforme o tipo de sensor embarcado.
+
+Destacam-se os sensores ópticos, térmicos, multiespectrais e hiperespectrais, que detectam variáveis fisiológicas das plantas, como estresse hídrico e deficiências nutricionais. O processo de uso de VANTs abrange etapas como planejamento de voo, coleta e processamento de imagens, geração de mosaicos e análise por ferramentas de SIG, culminando na produção de relatórios técnicos para apoio à tomada de decisão no campo.
+
+Apesar dos avanços, o uso de VANTs exige regulamentação da ANAC e cuidados operacionais para garantir segurança e eficácia das missões.
