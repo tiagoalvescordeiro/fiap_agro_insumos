@@ -18,7 +18,7 @@ calcular_insumos_soja <- function(area_util_m2) {
   )
   
   resultado <- lapply(insumos, function(valor) formatar_numero(valor * area_util_m2))
-  unidades <- c("Kg", "Kg", "Kg", "Kg", "Kg", "mL", "mL", "mL", "L/dia")
+  unidades <- c("Kg", "Kg", "Kg", "Kg", "Kg", "L", "L", "L", "L/dia")
   names(resultado) <- names(insumos)
   for (i in seq_along(resultado)) {
     resultado[[i]] <- paste0(resultado[[i]], " ", unidades[i])
